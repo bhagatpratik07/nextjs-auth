@@ -1,1 +1,1 @@
-Authentication in Next.js App
+Authentication in Next.js App using Netlify Identity
